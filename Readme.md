@@ -1,7 +1,8 @@
+Before use install this [plugin](https://github.com/AlexIzh/PluginPanel/edit/master/README.md)
+===
+
 TimePlugin
 =============
-
-Required this [plugin](https://github.com/AlexIzh/PluginPanel/edit/master/README.md)
 
 Plugin for Xcode for tracking your time! You can track time for some tasks right in Xcode!
 Xcode 5+ only.
