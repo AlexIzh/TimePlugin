@@ -7,34 +7,34 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>2D69394F-2D15-45E2-94E7-0BCFD4C43F26</string>
 	<key>IDESourceControlProjectName</key>
-	<string>TimePlugin</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>EB559929-207A-416A-AA80-A45D70586971</key>
-		<string>ssh://git.kneesntoads.com/plugins.git</string>
+		<key>A4521E8825A970F778977854B1B65AE088F80341</key>
+		<string>https://github.com/AlexIzh/TimePlugin.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TimePlugin/TimePlugin.xcodeproj/project.xcworkspace</string>
+	<string>TimePlugin.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>EB559929-207A-416A-AA80-A45D70586971</key>
-		<string>../../..</string>
+		<key>A4521E8825A970F778977854B1B65AE088F80341</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://git.kneesntoads.com/plugins.git</string>
+	<string>https://github.com/AlexIzh/TimePlugin.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>EB559929-207A-416A-AA80-A45D70586971</string>
+	<string>A4521E8825A970F778977854B1B65AE088F80341</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>EB559929-207A-416A-AA80-A45D70586971</string>
+			<string>A4521E8825A970F778977854B1B65AE088F80341</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Plugins</string>
+			<string>TimePlugin</string>
 		</dict>
 	</array>
 </dict>
