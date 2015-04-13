@@ -15,7 +15,7 @@ For using this plugin you should install PluginPanel. And then click on the "Pl"
 For import all to SVC file you can click on share button.
 For stopping all running tasks use "stop all" button.
 
-![PC_ss01.png](http://cl.ly/image/361O373s1020/Screen%20Shot%202013-09-24%20at%2023.29.54.png)
+![PC_ss01.png](https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.43.04%20AM.png)
 
 ## License
 *TimePlugin* is released under the **MIT License**, see *LICENSE.txt*.
